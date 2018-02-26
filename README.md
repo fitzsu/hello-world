@@ -7,3 +7,5 @@ This project is to learn how to user github.
 ## this is my last mod
 
 # edit with readme-edits
+
+## trying to edit with git bash.
